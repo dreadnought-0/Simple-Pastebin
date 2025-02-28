@@ -1,4 +1,4 @@
-# Dark Space Pastebin
+# Dark Space Labs Pastebin
 
 
 A secure, minimalist code sharing platform with end-to-end encryption for developers and teams.
