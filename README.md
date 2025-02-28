@@ -1,6 +1,5 @@
 # Dark Space Labs Pastebin
 
-![Dark Space Labs Pastebin](https://darkspacelabs.com/assets/logo.png)
 
 A secure, minimalist code sharing platform with end-to-end encryption for developers and teams.
 
