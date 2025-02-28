@@ -1,5 +1,6 @@
 # Dark Space Labs Pastebin
 
+![Dark Space Labs Pastebin](https://darkspacelabs.com/assets/logo.png)
 
 A secure, minimalist code sharing platform with end-to-end encryption for developers and teams.
 
@@ -55,7 +56,7 @@ A secure, minimalist code sharing platform with end-to-end encryption for develo
 
 1. Clone the repository
 ```bash
-git clone https://github.com/darkspacelabs/pastebin.git
+git clone https://github.com/dreadnought-0/pastebin.git
 cd pastebin
 ```
 
@@ -153,4 +154,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Dark Space Labs - [contact@darkspacelabs.com](mailto:contact@darkspacelabs.com)
 
-Project Link: [https://github.com/darkspacelabs/pastebin](https://github.com/darkspacelabs/pastebin)
+Project Link: [https://github.com/dreadnought-0/pastebin](https://github.com/dreadnought-0/pastebin)
